@@ -16,7 +16,7 @@ Education
   * Advisor: Prof. Mohamad Sawan (Fellow of the Canadian Academy of Engineering, IEEE Life Fellow)
   * Research: neuromorphic computing and brain-inspired chip design
 * **BEng, Microelectronics Science and Engineering**, Fudan University, 2018.09 – 2022.06
-  * Shanghai, China; GPA 3.80/4.00 (rank 12/147); direct-entry doctorate
+  * Shanghai, China; direct-entry doctorate
 
 Research projects
 ======
@@ -45,9 +45,6 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}
 
-Talks
-======
-* Three oral presentations at international conferences (see publications page for venues).
 Skills
 ======
 * **Programming**: Python, C, C++
@@ -58,14 +55,13 @@ Skills
 
 Honors and awards
 ======
-* Best PhD Student, Advanced Neural Chip Center, Westlake University (1/28)
 * Outstanding Teaching Assistant, School of Engineering, Westlake University
 * Annual Campus Sports and Arts Star, Westlake University
-* President, Fudan University Electronics Maker Club (5-star club; incubated the RoboMaster national champion team "Nebula EGA")
+* President, Fudan University Electronics Geek Association
 * Best Social Value Award, 8th China-US Young Maker Competition
 * Project Lead, Fudan Undergraduate Research Opportunities Program (FDUROP) Xiyuan Project
 * Undergraduate Excellent Student Scholarship, Fudan University
 
 Interests
 ======
-* Game development; air volleyball (member of the Suzhou Air Volleyball Association); tennis; basketball; photography.
+* Game development; air volleyball; tennis; basketball; photography.
