@@ -1,0 +1,63 @@
+/* ==========================================================================
+   PUBLICATION TIMELINE
+   Vertical timeline used on the front page publication list.
+   ========================================================================== */
+
+.pub-timeline {
+  list-style: none;
+  margin: 1.5em 0 2em 0;
+  padding: 0;
+  border-left: 2px solid $lighter-gray;
+}
+
+.pub-timeline > li {
+  position: relative;
+  margin: 0 0 1.4em 0;
+  padding: 0 0 0 1.75em;
+  line-height: 1.6;
+}
+
+/* node dot, centered on the vertical rule */
+.pub-timeline > li::before {
+  content: "";
+  position: absolute;
+  left: -7px; /* (12px dot - 2px rule) / 2 */
+  top: 0.45em;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: $primary-color;
+}
+
+/* year badge */
+.pub-year {
+  display: inline-block;
+  min-width: 3.25em;
+  margin-right: 0.35em;
+  font-weight: 700;
+  color: $primary-color;
+  font-variant-numeric: tabular-nums;
+}
+
+/* [paper] link, kept visually quiet next to the venue */
+.pub-timeline .pub-link {
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+/* --------------------------------------------------------------------------
+   Research-direction callout.
+
+   The stock .notice--* blocks render at $type-size-6 (0.75em), which is too
+   small to carry a paragraph of body copy, so restore body size here.
+   -------------------------------------------------------------------------- */
+
+.page__content .notice--info {
+  font-size: $type-size-5 !important;
+  line-height: 1.6;
+  border-left: 4px solid $info-color;
+}
+
+.page__content .notice--info p {
+  margin-bottom: 0;
+}
