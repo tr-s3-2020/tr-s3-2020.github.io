@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-an-energy-efficient-unstructured-sparsity-aware-deep-snn-acc
 excerpt: 'An energy-efficient unstructured sparsity-aware deep snn accelerator with 3-d computation array'
 date: 2024-01-01
-venue: 'IEEE J. Solid-State Circuits'
+venue: 'IEEE Journal of Solid-State Circuits'
 citation: 'C Fang, Z Shen, Z Wang, C Wang, S Zhao, F Tian, J Yang, M Sawan (2024). &quot;An energy-efficient unstructured sparsity-aware deep snn accelerator with 3-d computation array.&quot; <i>IEEE J. Solid-State Circuits</i>.'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PRAjkWYAAAAJ&citation_for_view=PRAjkWYAAAAJ:IjCSPb-OGe4C'
 ---
